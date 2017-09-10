@@ -1,0 +1,116 @@
+人物姓名：Marta "Fae" Eludeborn
+种族：Whisper gnome  阵营：NG          信仰：无
+体型：小             年龄：48          性别：女
+
+身高：2'7            体重：32 lb.
+肤色：白             发色：棕          瞳色：棕
+
+语言：通用语，侏儒语，巨人语
+职业等级：swordsage 7
+经验：21000/28000
+****************************************************************************
+力量 12 () +1
+敏捷 23 () +6
+体质 16 () +3
+智力 14 () +2
+感知 16 () +3
+魅力 11 () +0
+****************************************************************************
+生命值 7d8 + 21 - 7 = 43
+防御等级 25(+6 dex，+5 armor，+1 size, +3 wis)，touch 20，flatfooted 19 (+4 vs giants)
+先攻调整 +8
+基本攻击加值 +5，擒抱 +2
+速度 30 (基本速度 30，负重42/(32/64/97)，轻甲，轻载)
+****************************************************************************
+强韧豁免 +5  (2 base +3 con)
+反射豁免 +11 (5 base +6 dex)
+意志豁免 +8  (5 base +3 wis)
+****************************************************************************
+攻击：
++1 discipline(shadowhand) dagger, melee +15(+5 bab +6 dex +1 wf +1 size +2 weapon), 1d3+2(+1 weapon, +1 str), 19-20/*2, P/S
++1 dagger, melee +14(+5 bab +6 dex +1 wf +1 size +1 weapon), 1d3+2(+1 weapon, +1 str), 19-20/*2, P/S
+
+Situational attack bonus
++2 main hand when in shadowhand stance
++1 vs kobolds and goblinoids
+
+Situational damage bonus
++6 dex while in shadowhand stance
++3 wis when using tigerclaw strikes
+****************************************************************************
+Stances: Hunter's Sense, Flame's Blessing, Assassin's Stance
+
+Maneuvers：(6/12)
+lv1: Sudden Leap, Wolf Fang Strike, Distracting Ember, Burning Blade, Moment of Perfect Mind, Shadow Blade Technique
+lv2: Claw at the Moon, Cloak of Deception, Mountain Hammer
+lv3: Mind over Body, Soaring Raptor Strike
+lv4: Obscuring Shadow Veil
+
+Prepared: Sudden Leap, Wolf Fang Strike, Moment of Perfect Mind, Cloak of Deception, Burning Blade, Obscuring Shadow Veil
+****************************************************************************
+技能：8 * (cl + 3)
++13 专注                (10 rank + 3 con)
++11 跳跃                (10 rank + 1 str)*
++24 躲藏                (10 rank + 6 dex + 4 size+ 4 racial)*
++20 潜行                (10 rank + 6 dex + 4 racial)*
++15 聆听                (10 rank + 3 wis + 2 racial)
++13 察言观色            (10 rank + 3 wis)
++16 滚翻                (10 rank + 6 dex)*
++ 5 游泳                (4 rank + 1 str)**
++ 9 平衡                (3 rank + 6 dex)*
++ 5 攀爬                (3 rank + 1 str)*
+
++ 5 侦查                (0 rank + 3 wis + 2 racial)
+
+*：ACP：0
+****************************************************************************
+专长：
+Adaptive Style
+Weapon Finesse
+Shadow Blade
+Two-weapon Fighting
+
+缺陷：
+Fragile: -1 hp per HD
+****************************************************************************
+职业能力：
+Quick to Act +2
+AC bonus
+Sense magic
+Discipline focus (Weapon Focus): Shadow Hand
+Discipline focus (insightful strike): Tiger Claw
+****************************************************************************
+种族特性：
+Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Hide checks, -4 penalty on grapple checks, lifting and carrying limits ¾ those of Medium characters.
+Low light vision
+Darkvision 60ft
+Weapon Familiarity: Gnome hooked hammer
++4 racial bonus on Hide and Move Silently checks
++2 racial bonus on Listen and Spot checks
+
+Spell-Like Abilities:
+1/1 silence (must be centered on whisper gnome's body)
+1/1 ghost sound
+1/1 mage hand
+1/1 message
+Caster level 1st; save DC 10 + spell level.
+****************************************************************************
+随身物品：
+
+武器：(1.5 lb.)
+discipline(shadowhand) dagger +1           7302 gp         1 lb.
+dagger +1                                  1302 gp       0.5 lb.
+
+防具：(5 lb.)
+Mithril chain shirt + 1                    1600 GP         5 lb.
+
+其他：
+Gloves of Dexterity + 2                    4000 GP
+Anklet of Translocation                    1400 GP
+Artificer's Monocle                        1500 GP
+
+共计：6.5 lb，cash 1896 gp
+****************************************************************************
+外形：Fae通常穿一套紧身皮衣，足蹬鹿皮短靴。皮衣外面是一套做工朴实的链甲衫，以及皮制的护腕和护膝。全套护具颜色灰暗，看起来毫不起眼。腰带的两边各挂着一把插在木质刀鞘里的匕首。两把匕首式样相同，柄上各印着一个小小的紫色爪子。Fae身型瘦小，这幅打扮令她看上去好像参加化妆舞会的七八岁的人类小姑娘。
+
+Fae深受Whisper Gnome传统思潮的影响，认为除了村子里的人之外所有人都不能相信，即使偶然需要与外人合作也总是有所保留。在外流浪的这些年她给自己选择了"Fae"这个假名，自己的真名Marta Eludeborn则弃之不用
