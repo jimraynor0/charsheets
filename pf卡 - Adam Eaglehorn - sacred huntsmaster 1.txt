@@ -8,24 +8,24 @@ Class level: Inquisitor(Sacred Huntsmaster) 1
 Xp: 0
 ****************************************************************************
 Str 14 () +2
-Dex 19 () +4
+Dex 20 () +5
 Con 14 () +2
-Int  9 () -1
-Wis 14 () +2
-Cha  8 () -1
+Int 10 () +0
+Wis 12 () +1
+Cha  7 () -2
 ****************************************************************************
 HP 1d8 +2 con +1 favord class = 11
-Init +4
-Speed 30
+Init +5
+Speed 20
 
-AC 24(+3 dex，+4 armor, +4 wis, +2 class, +1 dodge), touch 20，flatfooted 20 (+4 vs giants)
+AC 18(+4 dex，+4 armor), touch 14，flatfooted 14
 Fort +4 (2 base +2 con)
-Ref  +4 (0 base +4 dex)
+Ref  +5 (0 base +5 dex)
 Will +4 (2 base +2 wis)
-CMD: 16
+CMD: 17
 ****************************************************************************
 Attacks:
-Longbow: +4(+0 bab, +4 dex), 1d8 P
+Longbow: +5(+0 bab, +5 dex), 1d8 P
 
 BAB: +0
 CMB: +2
@@ -33,14 +33,15 @@ CMB: +2
 skills: 6 * cl
 +6 climb                       (1 rank +2 str +3 class)*
 +6 swim                        (1 rank +2 str +3 class)*
-+5 knowledge(arcana)           (1 rank -1 int +2 wis +3 class)
-+5 knowledge(nature)           (1 rank -1 int +2 wis +3 class)
-+5 knowledge(religion)         (1 rank -1 int +2 wis +3 class)
-+5 knowledge(dungeoneering)    (1 rank -1 int +2 wis +3 class)
++4 knowledge(arcana)           (1 rank +0 int +3 class)(+1 wis when identifying monsters)
++4 knowledge(nature)           (1 rank +0 int +3 class)(+1 wis when identifying monsters)
++4 knowledge(religion)         (1 rank +0 int +3 class)(+1 wis when identifying monsters)
++4 knowledge(dungeoneering)    (1 rank +0 int +3 class)(+1 wis when identifying monsters)
++4 knowledge(planes)           (1 rank +0 int +3 class)(+1 wis when identifying monsters)
 
 Languages: common
 
-*: ACP: 0
+*: ACP: -3
 ****************************************************************************
 Feats:
 Point blank shot
@@ -49,6 +50,8 @@ Rapid shot
 Class features:
 Domain: Liberation(Freedom of movement 1 round/cl * day)
 Animal Companion: Wolf (http://paizo.com/pathfinderRPG/prd/bestiary/wolf.html#wolf)
+ - Link
+ - Share spells
 ****************************************************************************
 Spells:
 
