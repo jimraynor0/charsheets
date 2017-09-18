@@ -1,0 +1,69 @@
+Name: Adam Cassar
+Race: Human, Age: 21, Size: Medium, Gender: Male
+Height: 5'3, Weight: 110 lb.
+Skin color: Brown, Hair color: Dark brown, Eye color: Green
+Alighment: CG, Faith: Desna
+
+Class level: Inquisitor(Sacred Huntsmaster) 1
+Xp: 0
+****************************************************************************
+Str 14 () +2
+Dex 19 () +4
+Con 14 () +2
+Int  9 () -1
+Wis 14 () +2
+Cha  8 () -1
+****************************************************************************
+HP 1d8 +2 con +1 favord class = 11
+Init +4
+Speed 30
+
+AC 24(+3 dex，+4 armor, +4 wis, +2 class, +1 dodge), touch 20，flatfooted 20 (+4 vs giants)
+Fort +4 (2 base +2 con)
+Ref  +4 (0 base +4 dex)
+Will +4 (2 base +2 wis)
+CMD: 16
+****************************************************************************
+Attacks:
+Longbow: +4(+0 bab, +4 dex), 1d8 P
+
+BAB: +0
+CMB: +2
+****************************************************************************
+skills: 6 * cl
++6 climb                       (1 rank +2 str +3 class)*
++6 swim                        (1 rank +2 str +3 class)*
++5 knowledge(arcana)           (1 rank -1 int +2 wis +3 class)
++5 knowledge(nature)           (1 rank -1 int +2 wis +3 class)
++5 knowledge(religion)         (1 rank -1 int +2 wis +3 class)
++5 knowledge(dungeoneering)    (1 rank -1 int +2 wis +3 class)
+
+Languages: common
+
+*: ACP: 0
+****************************************************************************
+Feats:
+Point blank shot
+Rapid shot
+****************************************************************************
+Class features:
+Domain: Liberation(Freedom of movement 1 round/cl * day)
+Animal Companion: Wolf (http://paizo.com/pathfinderRPG/prd/bestiary/wolf.html#wolf)
+****************************************************************************
+Spells:
+
+lv 0 (at-will): guidance, light, acid splash, create water
+lv 1   (2/day): divine favor, expeditious retreat
+****************************************************************************
+Equipments:
+
+Hide armor                                   15 GP, 25 lb.
+Shield, heavy wooden                          7 GP, 10 lb.
+Mace, heavy                                  12 GP, 8 lb.
+Longbow                                      75 GP, 3 lb.
+Arrows(60)	                                  3 GP, 9 lb.
+
+Scroll of Clw                                25 GP
+
+Weight total: 53 lb(carrying 58/116/175 lbs), cash 13 gp
+****************************************************************************
