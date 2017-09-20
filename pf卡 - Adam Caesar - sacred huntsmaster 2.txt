@@ -1,0 +1,108 @@
+Name: Adam Caesar
+Race: Human, Age: 21, Size: Medium, Gender: Male
+Height: 5'3, Weight: 110 lb.
+Skin color: Brown, Hair color: Dark brown, Eye color: Green
+Alighment: CG, Faith: Desna
+
+Class level: Inquisitor(Sacred Huntsmaster) 2
+Xp: 0
+****************************************************************************
+Str 14 () +2
+Dex 20 () +5
+Con 14 () +2
+Int 10 () +0
+Wis 12 () +1
+Cha  7 () -2
+****************************************************************************
+HP 2d8 +4 con +2 favord class = 18
+Init +6
+Speed 20
+
+AC 18(+4 dex，+4 armor), touch 14，flatfooted 14
+Fort +5 (3 base +2 con)
+Ref  +5 (0 base +5 dex)
+Will +4 (3 base +1 wis)
+CMD: 18
+****************************************************************************
+Attacks:
+MW Str 14 Composite Longbow: +7(+1 bab, +5 dex, +1 weapon), 1d8+2 P (+ Point Blank Shot), range increment 110ft.
+
+BAB: +1
+CMB: +3
+****************************************************************************
+skills: 7 * cl
++7 climb                       (2 rank +2 str +3 class)*
++7 swim                        (2 rank +2 str +3 class)*
++5 knowledge(arcana)           (2 rank +0 int +3 class)(+1 wis when identifying monsters)
++5 knowledge(nature)           (2 rank +0 int +3 class)(+1 wis when identifying monsters)
++5 knowledge(religion)         (2 rank +0 int +3 class)(+1 wis when identifying monsters)
++5 knowledge(dungeoneering)    (2 rank +0 int +3 class)(+1 wis when identifying monsters)
++5 knowledge(planes)           (2 rank +0 int +3 class)(+1 wis when identifying monsters)
+
+Languages: common
+
+*: ACP: -3
+****************************************************************************
+Feats:
+Point blank shot
+Rapid shot
+****************************************************************************
+Class features:
+Domain: Liberation(Freedom of movement 1 round/cl * day)
+Animal Companion: Velociraptor(see below)
+ - Link
+ - Share spells
+Monster Lore (Ex): The inquisitor adds her Wisdom modifier on Knowledge skill checks in addition to her Intelligence modifier, when making skill checks to identify the abilities and weaknesses of creatures.
+Stern Gaze (Ex): Inquisitors are skilled at sensing deception and intimidating their foes. An inquisitor receives a morale bonus on all Intimidate and Sense Motive checks equal to 1/2 her inquisitor level (minimum +1).
+Cunning Initiative (Ex): At 2nd level, an inquisitor adds her Wisdom modifier on initiative checks, in addition to her Dexterity modifier.
+Detect Alignment (Sp): At will, an inquisitor can use detect chaos, detect evil, detect good, or detect law. She can only use one of these at any given time.
+Track (Ex): At 2nd level, an inquisitor adds half her level on Survival skill checks made to follow or identify tracks.
+****************************************************************************
+Spells:
+
+lv 0 (at-will): guidance, light, acid splash, create water, disrupt undead
+lv 1   (3/day): divine favor, expeditious retreat, protect from evil
+****************************************************************************
+Equipments:
+
+Hide armor                                   15 GP, 25 lb.
+Shield, heavy wooden                          7 GP, 10 lb.
+Mace, heavy                                  12 GP, 8 lb.
+Dagger, cold iron                             4 GP, 1 lb.
+Str 14 Composite Longbow MW                 600 GP, 3 lb.
+Arrows(40/60)                                 3 GP, 6 lb.
+Arrow, Silver head(20)                        3 GP, 3 lb.
+
+Scroll of Clw                                25 GP
+
+Weight total: 56 lb(carrying 58/116/175 lbs), cash 256 gp
+****************************************************************************
+Animal companion:
+
+Dinosaur, Velociraptor
+
+Starting Statistics: Size Small; Speed 60 ft.; AC +1 natural armor; Attack 2 talons (1d6), bite (1d4); Ability Scores Str 11, Dex 17, Con 17, Int 2, Wis 12, Cha 14; Special Qualities low-light vision, scent. Racial Modifiers +8 Acrobatics, +8 Perception, +8 Stealth
+Lv2 Advancement: 3 HD, BAB+2, fort+3, ref+3, will+1, skill 3, feat 2
+
+Attacks:
+2 Talons +6 1d6
+bite +0 1d4
+
+Defenses:
+AC 15(+1 natural, +3 dex, +1 size), flat-footed 12, touch 14
+Fort +6(+3 hd, +3 con)
+Ref +6(+3 hd, +3 dex)
+Will +2(+1 hd, +1 wis)
+
+Special Qualities low-light vision, scent
+
+Feats:
+Weapon finesse
+Weapon focus(talon)
+
+Skills:
+Acrobatics +12(1 rank, +3 dex, +8 racial)
+Perception +10(1 rank, +1 wis, +8 racial)
+Swim +1 (1 rank)
+
+Racial Modifiers +8 Acrobatics, +8 Perception, +8 Stealth
