@@ -6,37 +6,40 @@
 肤色：白             发色：棕          瞳色：棕
 
 语言：通用语，侏儒语，巨人语
-职业等级：swordsage 7
-经验：21000/28000
+职业等级：swordsage 7 / ftr 1
 ****************************************************************************
 力量 12 () +1
-敏捷 23 () +6
+敏捷 24 () +7
 体质 16 () +3
 智力 14 () +2
 感知 16 () +3
 魅力 11 () +0
 ****************************************************************************
-生命值 7d8 + 21 - 7 = 43
+生命值 7d8 + 1d10 + 24 - 8 = 51
 防御等级 25(+6 dex，+5 armor，+1 size, +3 wis)，touch 20，flatfooted 19 (+4 vs giants)
-先攻调整 +8
-基本攻击加值 +5，擒抱 +2
+先攻调整 +9
+基本攻击加值 +6/+1，擒抱 +3
 速度 30 (基本速度 30，负重42/(32/64/97)，轻甲，轻载)
 ****************************************************************************
-强韧豁免 +5  (2 base +3 con)
-反射豁免 +11 (5 base +6 dex)
-意志豁免 +8  (5 base +3 wis)
+强韧豁免 +8  (4 base +3 con +1 cloak)
+反射豁免 +13 (5 base +7 dex +1 cloak)
+意志豁免 +9  (5 base +3 wis +1 cloak)
 ****************************************************************************
 攻击：
-+1 discipline(shadowhand) dagger, melee +15(+5 bab +6 dex +1 wf +1 size +2 weapon), 1d3+2(+1 weapon, +1 str), 19-20/*2, P/S
-+1 dagger, melee +14(+5 bab +6 dex +1 wf +1 size +1 weapon), 1d3+2(+1 weapon, +1 str), 19-20/*2, P/S
++1 discipline(shadowhand) dagger, melee +19(+6 bab +7 dex +1 wf +1 size +4 weapon), 1d3+9(+1 weapon, +1 str, +7 dex), 19-20/*2, P/S
++1 dagger, melee +16(+6 bab +7 dex +1 wf +1 size +1 weapon), 1d3+8(+1 weapon, +7 dex), 19-20/*2, P/S
+
+Wolf Fang Strike: +17/+14, 1d3+12/1d3+11
+Full attack: +17/+12/+14/+9, 1d3+9 * 2/1d3+8 * 2
 
 Situational attack bonus
-+2 main hand when in shadowhand stance
++2 main hand when in shadowhand stance(almost always on)
 +1 vs kobolds and goblinoids
 
 Situational damage bonus
-+6 dex while in shadowhand stance
++7 dex while in shadowhand stance(almost always on)
 +3 wis when using tigerclaw strikes
++2d6 Sneak attack
 ****************************************************************************
 Stances: Hunter's Sense, Flame's Blessing, Assassin's Stance
 
@@ -46,19 +49,19 @@ lv2: Claw at the Moon, Cloak of Deception, Mountain Hammer
 lv3: Mind over Body, Soaring Raptor Strike
 lv4: Obscuring Shadow Veil
 
-Prepared: Sudden Leap, Wolf Fang Strike, Moment of Perfect Mind, Cloak of Deception, Burning Blade, Obscuring Shadow Veil
+Prepared: Sudden Leap, Wolf Fang Strike, Moment of Perfect Mind, Mind over Body, Burning Blade, Obscuring Shadow Veil
 ****************************************************************************
-技能：8 * (cl + 3)
+技能：8 * (7 + 3) + 4 * 1
 +13 专注                (10 rank + 3 con)
-+11 跳跃                (10 rank + 1 str)*
++16 跳跃                (11 rank + 1 str +5 ring)*
 +24 躲藏                (10 rank + 6 dex + 4 size+ 4 racial)*
 +20 潜行                (10 rank + 6 dex + 4 racial)*
 +15 聆听                (10 rank + 3 wis + 2 racial)
 +13 察言观色            (10 rank + 3 wis)
 +16 滚翻                (10 rank + 6 dex)*
-+ 5 游泳                (4 rank + 1 str)**
-+ 9 平衡                (3 rank + 6 dex)*
-+ 5 攀爬                (3 rank + 1 str)*
++ 7 游泳                (6 rank + 1 str)**
++10 平衡                (3 rank + 7 dex)*
++ 5 攀爬                (4 rank + 1 str)*
 
 + 5 侦查                (0 rank + 3 wis + 2 racial)
 
@@ -69,6 +72,7 @@ Adaptive Style
 Weapon Finesse
 Shadow Blade
 Two-weapon Fighting
+Improved Two-weapon Fighting
 
 缺陷：
 Fragile: -1 hp per HD
@@ -97,19 +101,24 @@ Caster level 1st; save DC 10 + spell level.
 ****************************************************************************
 随身物品：
 
-武器：(1.5 lb.)
-discipline(shadowhand) dagger +1           7302 gp         1 lb.
-dagger +1                                  1302 gp       0.5 lb.
+武器：(3 lb.)
+discipline(shadowhand) dagger +1       0,5 lb.
+dagger +1                              0.5 lb.
+dagger, cold iron * 2                    1 lb.
+dagger, silver * 2                       1 lb.
 
 防具：(5 lb.)
-Mithril chain shirt + 1                    1600 GP         5 lb.
+Mithril chain shirt +1                  5 lb.
 
 其他：
-Gloves of Dexterity + 2                    4000 GP
-Anklet of Translocation                    1400 GP
-Artificer's Monocle                        1500 GP
+Gloves of Dexterity +2
+Anklet of Translocation
+Artificer's Monocle
+Ring of invisibility
+Ring of jumping
+Cloak of resistence +1                  1 lb.
 
-共计：6.5 lb，cash 1896 gp
+共计：9 lb，cash 848 gp
 ****************************************************************************
 外形：Fae通常穿一套紧身皮衣，足蹬鹿皮短靴。皮衣外面是一套做工朴实的链甲衫，以及皮制的护腕和护膝。全套护具颜色灰暗，看起来毫不起眼。腰带的两边各挂着一把插在木质刀鞘里的匕首。两把匕首式样相同，柄上各印着一个小小的紫色爪子。Fae身型瘦小，这幅打扮令她看上去好像参加化妆舞会的七八岁的人类小姑娘。
 
