@@ -74,18 +74,19 @@ Shield, heavy wooden                          7 GP, 10 lb.
 Mace, heavy                                  12 GP, 8 lb.
 Dagger, cold iron                             4 GP, 1 lb.
 Str 14 Composite Longbow +1                2600 GP, 3 lb.
-Arrows(35/60)                                 3 GP, 6 lb.
-Arrow, Silver head(14/20)                     3 GP, 3 lb.
+Arrows(33/60)                                 3 GP, 6 lb.
+Arrow, Silver head(20)                        3 GP, 3 lb.
+Arrow, Cold iron head(20)                     2 GP, 3 lb.
 Arrow, Blunt                                  3 GP, 3 lb.
 
-Alchemist's fire * 3                         60 GP, 3 lb.
+Alchemist's fire * 5                        100 GP, 5 lb.
 Holy weapon balm                             30 GP, 0.5 lb.
 
 Scroll of Clw                                25 GP
 
 Lamellar (leather) for Animal Companion     120 GP, (12.5 lb.)
 
-Weight total: 65.5 lb(carrying 58/116/175 lbs), cash 43 gp
+Weight total: 67.5 lb(carrying 58/116/175 lbs), cash 1 gp
 ****************************************************************************
 Animal companion:
 
