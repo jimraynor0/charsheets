@@ -4,44 +4,45 @@ Height: 5'3, Weight: 110 lb.
 Skin color: Brown, Hair color: Dark brown, Eye color: Green
 Alighment: CG, Faith: Desna
 
-Class level: Inquisitor(Sacred Huntsmaster) 3
+Class level: Inquisitor(Sacred Huntsmaster) 4
 Xp: 0
 ****************************************************************************
 Str 14 () +2
-Dex 20 () +5
+Dex 21 () +5
 Con 14 () +2
 Int 10 () +0
 Wis 12 () +1
 Cha  7 () -2
 ****************************************************************************
-HP 3d8 +6 con +3 favord class = 27
+HP 4d8 +8 con +3 favord class = 34
 Init +6
-Speed 20
+Speed 30
 
-AC 18(+4 dex，+4 armor), touch 14，flatfooted 14
-Fort +5 (3 base +2 con)
+AC 19(+5 dex，+4 armor), touch 15，flatfooted 14
+Fort +6 (4 base +2 con)
 Ref  +6 (1 base +5 dex)
-Will +4 (3 base +1 wis)
-CMD: 19
+Will +5 (4 base +1 wis)
+CMD: 20
 ****************************************************************************
 Attacks:
-Str 14 Composite Longbow +1: +8(+2 bab, +5 dex, +1 weapon), 1d8+3 P (+ Point Blank Shot), range increment 110ft.
+Str 14 Composite Longbow +1: +9(+3 bab, +5 dex, +1 weapon), 1d8+3 P (+ Point Blank Shot), range increment 110ft.
 
-BAB: +2
-CMB: +4
+BAB: +3
+CMB: +5
 ****************************************************************************
 skills: 7 * cl
-+8 climb                       (3 rank +2 str +3 class)*
-+8 swim                        (3 rank +2 str +3 class)*
++9 climb                       (4 rank +2 str +3 class)*
++9 swim                        (4 rank +2 str +3 class)*
 +6 knowledge(arcana)           (3 rank +0 int +3 class)(+1 wis when identifying monsters)
 +6 knowledge(nature)           (3 rank +0 int +3 class)(+1 wis when identifying monsters)
 +6 knowledge(religion)         (3 rank +0 int +3 class)(+1 wis when identifying monsters)
 +6 knowledge(dungeoneering)    (3 rank +0 int +3 class)(+1 wis when identifying monsters)
-+6 knowledge(planes)           (3 rank +0 int +3 class)(+1 wis when identifying monsters)
++7 knowledge(planes)           (4 rank +0 int +3 class)(+1 wis when identifying monsters)
++5 handle animal               (4 rank +1 wis)(+4 when dealing with animal companion)
 
 Languages: common
 
-*: ACP: -3
+*: ACP: 0
 ****************************************************************************
 Feats:
 Point blank shot
@@ -50,7 +51,7 @@ Precise shot
 Coordinated shot(class bonus)
 ****************************************************************************
 Class features:
-Domain: Liberation(Freedom of movement 1 round/cl * day)
+Domain: Liberation(Freedom of movement 1 round * cl / day)
 Animal Companion: Velociraptor(see below)
  - Link
  - Share spells
@@ -61,60 +62,68 @@ Cunning Initiative (Ex): At 2nd level, an inquisitor adds her Wisdom modifier on
 Detect Alignment (Sp): At will, an inquisitor can use detect chaos, detect evil, detect good, or detect law. She can only use one of these at any given time.
 Track (Ex): At 2nd level, an inquisitor adds half her level on Survival skill checks made to follow or identify tracks.
 Bonus teamwork feat
+Animal focus: 1 min * cl / day
+
+Favored class option: +3 hp, +1 1st level spell
 ****************************************************************************
 Spells:
 
 lv 0 (at-will): guidance, light, acid splash, create water, disrupt undead, detect magic
-lv 1   (3/day): divine favor, expeditious retreat, protect from evil, cure light wound
+lv 1   (4/day): divine favor, expeditious retreat, protect from evil, cure light wound, wrath
+lv 2   (1/day): flames of the faithful, see invisibility
 ****************************************************************************
 Equipments:
 
-Hide armor                                   15 GP, 25 lb.
-Shield, heavy wooden                          7 GP, 10 lb.
-Mace, heavy                                  12 GP, 8 lb.
-Dagger, cold iron                             4 GP, 1 lb.
-Str 14 Composite Longbow +1                2600 GP, 3 lb.
-Arrows(33/60)                                 3 GP, 6 lb.
-Arrow, Silver head(20)                        3 GP, 3 lb.
-Arrow, Cold iron head(20)                     2 GP, 3 lb.
-Arrow, Blunt                                  3 GP, 3 lb.
+Mithril shirt                              10 lb.
+Shield, heavy wooden                       10 lb.
+Mace, heavy                                8 lb.
+Dagger, cold iron                          1 lb.
+Str 14 Composite Longbow +1                3 lb.
+Arrows (40)                                6 lb.
+Arrow, Silver head(20)                     3 lb.
+Arrow, Cold iron head(20)                  3 lb.
+Arrow, Blunt                               3 lb.
 
-Alchemist's fire * 5                        100 GP, 5 lb.
-Holy weapon balm                             30 GP, 0.5 lb.
+Alchemist's fire * 5                       5 lb.
+Holy weapon balm                           0.5 lb.
 
-Scroll of Clw                                25 GP
+Scroll of Clw
 
-Lamellar (leather) for Animal Companion     120 GP, (12.5 lb.)
++1 Lamellar (leather) for Animal Companion (50 lb.)
 
-Weight total: 67.5 lb(carrying 58/116/175 lbs), cash 1 gp
+Weight total: 52.5 lb(carrying 58/116/175 lbs), cash 630 gp
 ****************************************************************************
 Animal companion:
 
-Dinosaur, Velociraptor
+Ape
 
-Starting Statistics: Size Small; Speed 60 ft.; AC +1 natural armor; Attack 2 talons (1d6), bite (1d4); Ability Scores Str 11, Dex 17, Con 17, Int 2, Wis 12, Cha 14; Special Qualities low-light vision, scent. Racial Modifiers +8 Acrobatics, +8 Perception, +8 Stealth
-Lv3 Advancement: 3 HD, BAB+2, fort+3, ref+3, will+1, nat.armor +2, str/dex +1, skill 3, feat 2
+Starting Statistics: Size Medium; Speed 30 ft., Climb 30 ft.; AC +1 natural armor; Attack bite (1d4), 2 claws (1d4); Ability Scores Str 13, Dex 17, Con 10, Int 2, Wis 12, Cha 7; Special Qualities low-light vision, scent.
+4th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d6), 2 claws (1d6); Ability Scores Str +8, Dex –2, Con +4.
+Lv4 Advancement: 4 HD, BAB+3, fort+4, ref+4, will+1, nat.armor +2, str/dex +1, skill 4, feat 2, ability score increase: int + 1
+
+Ability scores: Str 22(24 with Animal Focus), Dex 16, Con 14, Int 3, Wis 12, Cha 7
+Speed 30 ft., Climb 30 ft.
+Size: Large, Reach: 10 ft.
 
 Attacks:
-2 Talons +6 1d6+1
-bite +1 1d4+1
+bite +9 1d6+7 (with Animal focus)
+2 claws +7 1d6+3 (with Animal focus)
 
 Defenses:
-HP: 22
-AC 18(+4 armor, +3 dex, +1 size), flat-footed 15, touch 14
-Fort +6(+3 hd, +3 con)
-Ref +7(+3 hd, +4 dex)
-Will +2(+1 hd, +1 wis)
+HP: 28
+AC 21(+4 armor, +3 dex, +5 natural, -1 size), flat-footed 18, touch 13
+Fort +6 (+4 base, +2 con)
+Ref +7 (+4 base, +3 dex)
+Will +3 (+1 base, +1 wis)
 
 Special Qualities low-light vision, scent
 
 Feats:
-Weapon finesse
 Armor Proficiency(Light)
+Multiattack
 
 Skills:
-Acrobatics +13(1 rank, +4 dex, +8 racial)*
-Perception +10(1 rank, +1 wis, +8 racial)*
-Swim +1 (1 rank)*
+Acrobatics +6 (3 rank, +3 dex)*
+Linguistic -3 (1 rank, -4 int)(Can understand common)
 
-Racial Modifiers +8 Acrobatics, +8 Perception, +8 Stealth, ACP 3
+ACP -1
