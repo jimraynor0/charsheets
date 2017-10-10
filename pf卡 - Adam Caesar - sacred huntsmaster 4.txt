@@ -5,7 +5,7 @@ Skin color: Brown, Hair color: Dark brown, Eye color: Green
 Alighment: CG, Faith: Desna
 
 Class level: Inquisitor(Sacred Huntsmaster) 4
-Xp: 0
+Xp: 3
 ****************************************************************************
 Str 14 () +2
 Dex 21 () +5
@@ -91,7 +91,7 @@ Scroll of Clw
 
 +1 Lamellar (leather) for Animal Companion (50 lb.)
 
-Weight total: 52.5 lb(carrying 58/116/175 lbs), cash 630 gp
+Weight total: 52.5 lb(carrying 58/116/175 lbs), cash 3330 gp
 ****************************************************************************
 Animal companion:
 
@@ -107,7 +107,7 @@ Size: Large, Reach: 10 ft.
 
 Attacks:
 bite +9 1d6+7 (with Animal focus)
-2 claws +7 1d6+3 (with Animal focus)
+2 claws +10 1d6+7 (with Animal focus)
 
 Defenses:
 HP: 28
@@ -120,7 +120,7 @@ Special Qualities low-light vision, scent
 
 Feats:
 Armor Proficiency(Light)
-Multiattack
+Weapon Focus: Claw
 
 Skills:
 Acrobatics +6 (3 rank, +3 dex)*
